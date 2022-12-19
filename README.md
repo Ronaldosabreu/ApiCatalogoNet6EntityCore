@@ -1,0 +1,1 @@
+# ApiCatalogoNet6EntityCore
